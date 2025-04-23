@@ -1,4 +1,4 @@
-LeetCode Spring Solver
+# LeetCode Spring Solver
 
 Status: Initial scaffolding – main API endpoint coming soon.
 
