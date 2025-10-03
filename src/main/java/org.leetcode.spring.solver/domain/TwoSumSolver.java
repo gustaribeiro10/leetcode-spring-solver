@@ -1,7 +1,10 @@
 package org.leetcode.spring.solver.domain;
 
+import org.springframework.stereotype.Component;
+
 import java.util.HashMap;
 
+@Component
 public class TwoSumSolver {
 
     public static int[] twoSum(int[] nums, int target) {
